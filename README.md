@@ -12,7 +12,7 @@ In this repository Data Analysis and Visualization is done on the sales data of 
 
 ## Data
 
-'The data for this assignment is avaialable to download from on the drive as the single file:'
+`The data for this assignment is avaialable to download from on the drive as the single file:`
    - [Company Yearly Sales Data](https://drive.google.com/file/d/133g6k3RCx07wG7gWxsHypQcZVKFKKhJ0/view?usp=sharing)
 
 
