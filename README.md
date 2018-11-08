@@ -16,7 +16,7 @@ The data for this assignment can be viewed from the link given below:
 
    - [Company Yearly Sales Data](https://docs.google.com/spreadsheets/d/15fg9escRwl9401_DChwMqnmbt-sSDl_l_m2ILEdlxD0/edit?usp=sharing)
    
-The file contains the data frame with all the sales data for the year 2011, 2012, 2013, 2014, 2015 and 2016. For each year the table contains sales data of bicycles, bicycles accessories and clothing differentiated on the basis of country, gender and age. Here are the first few rows:
+The file contains the data frame with all the sales data for the year 2011, 2012, 2013, 2014, 2015 and 2016. For each year the table contains sales data of bicycles, bicycles accessories and clothing differentiated on the basis of country, state, gender and age. Here are the first few rows:
 
 | Date    | Year  | Month    | Customer Age | Customer Gender | Country       | State      | Product Category | Sub Category    | Quantity |  Unit Cost  |  Unit Price  |  Cost     |  Revenue  |
 |---------|-------|----------|--------------|-----------------|---------------|------------|------------------|-----------------|----------|-------------|--------------|-----------|-----------|
