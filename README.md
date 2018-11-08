@@ -1,4 +1,4 @@
-# Sales Data Analysis and Visualization
+# Sales Data Analysis and Visualisation
 
 ## Introduction
 The aim of the sales data analysis is to uncover invaluable information that can help us decide whether to adjust prices or increase or decrease supply of products on the basis of various factors.
@@ -8,7 +8,7 @@ If a particular product’s sales are lagging, consider seasonal fluctuations or
 If you do a sales analysis and look at the products that are not selling, that doesn’t mean that you get rid of them. It may also tell us to correct something, such as ineffective marketing tactics, to get the sales you need.
 
 ## Assignment 
-In this repository Data Analysis and Visualization is done on the sales data of a company who sells bicycles, bicycles accessories and clothing in different countries. This project is based on the edx course [Introduction to Data Analysis using Excel](https://www.edx.org/course/introduction-to-data-analysis-using-excel).
+In this repository Data Analysis and Visualisation is done on the sales data of a company who sells bicycles, bicycles accessories and clothing in different countries. This project is based on the edx course [Introduction to Data Analysis using Excel](https://www.edx.org/course/introduction-to-data-analysis-using-excel).
 
 ## Data
 
@@ -24,6 +24,8 @@ The file contains the data frame with all the sales data for the year 2011, 2012
 | 2/20/16 | 2016  | February | 29           | F               | United States | Washington | Clothing         | Gloves          | 2        |   24.50     |   28.50      |   49.00   |   57.00   |
 | 2/27/16 | 2016  | February | 29           | F               | United States | Washington | Accessories      | Tires and Tubes | 3        |   3.67      |   5.00       |   11.00   |   15.00   |
 | 3/12/16 | 2016  | March    | 29           | F               | United States | Washington | Accessories      | Tires and Tubes | 2        |   87.50     |   116.50     |   175.00  |   233.00  |
+
+Original Data is modified by adding Month and Year with the help of `YEAR([@Date])` and `TEXT([@Date],"mmmm")` function for better visualisation.
 
 
 
