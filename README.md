@@ -10,5 +10,11 @@ If you do a sales analysis and look at the products that are not selling, that d
 ## Assignment 
 In this repository Data Analysis and Visualization is done on the sales data of a company who sells bicycles, bicycles accessories and clothing in different countries. This project is based on the edx course [Introduction to Data Analysis using Excel](https://www.edx.org/course/introduction-to-data-analysis-using-excel).
 
+## Data
+
+The data for this assignment is avaialable to download from on the drive as the single file:
+   - [Company Yearly Sales Data](https://docs.google.com/spreadsheets/d/15fg9escRwl9401_DChwMqnmbt-sSDl_l_m2ILEdlxD0/edit?usp=sharing)
+
+
 
 
