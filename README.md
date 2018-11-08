@@ -27,8 +27,8 @@ The file contains the data frame with all the sales data for the year 2011, 2012
 
 Original Data is modified by adding Month and Year column with the help of `YEAR([@Date])` and `TEXT([@Date],"mmmm")` function for better visualisation. 
 
- - Cost = Unit Cost * Quantitiy
- - Revenue = Unit Price * Quantity
+ - `Cost = Unit Cost * Quantity`
+ - `Revenue = Unit Price * Quantity`
 
 
 
