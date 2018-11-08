@@ -13,3 +13,7 @@ In the above pivot table Year is added in Column PivotTable field and Product an
 
 The view of row in pivot table is depend on the order of Product Category and Sub Category in PivotTable Row field.
 
+Other pivots tables images are ashown below:
+
+
+
