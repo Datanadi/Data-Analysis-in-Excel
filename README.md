@@ -25,7 +25,10 @@ The file contains the data frame with all the sales data for the year 2011, 2012
 | 2/27/16 | 2016  | February | 29           | F               | United States | Washington | Accessories      | Tires and Tubes | 3        |   3.67      |   5.00       |   11.00   |   15.00   |
 | 3/12/16 | 2016  | March    | 29           | F               | United States | Washington | Accessories      | Tires and Tubes | 2        |   87.50     |   116.50     |   175.00  |   233.00  |
 
-Original Data is modified by adding Month and Year with the help of `YEAR([@Date])` and `TEXT([@Date],"mmmm")` function for better visualisation.
+Original Data is modified by adding Month and Year column with the help of `YEAR([@Date])` and `TEXT([@Date],"mmmm")` function for better visualisation. 
+
+ - Cost = Unit Cost * Quantitiy
+ - Revenue = Unit Price * Quantity
 
 
 
