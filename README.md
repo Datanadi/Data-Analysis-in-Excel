@@ -12,8 +12,8 @@ In this repository Data Analysis and Visualization is done on the sales data of 
 
 ## Data
 
-The data for this assignment is avaialable to download from on the drive as the single file:
-   - [Company Yearly Sales Data](https://docs.google.com/spreadsheets/d/15fg9escRwl9401_DChwMqnmbt-sSDl_l_m2ILEdlxD0/edit?usp=sharing)
+'The data for this assignment is avaialable to download from on the drive as the single file:'
+   - [Company Yearly Sales Data](https://drive.google.com/file/d/133g6k3RCx07wG7gWxsHypQcZVKFKKhJ0/view?usp=sharing)
 
 
 
