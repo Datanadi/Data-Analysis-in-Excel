@@ -2,7 +2,7 @@ As we all know it's easy to compare data by visualisation than comparing numbers
 
 Therefore Pivot charts are created. The pivort chart for the pivot tables in pivot table file are:
 
-![image](https://user-images.githubusercontent.com/18466387/48185577-7177b600-e35b-11e8-814f-a120ee638aa4.png)
+![image](https://user-images.githubusercontent.com/18466387/48239757-29f23800-e3f6-11e8-9487-67f54c8f1f64.png)
 
 Pivot Charts expands as the rows of pivot tables are expanded.
 
