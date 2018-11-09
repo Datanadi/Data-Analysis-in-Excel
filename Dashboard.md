@@ -12,3 +12,7 @@ Pivot Charts expands as the rows of pivot tables are expanded.
 
 
 Now we can easily compare sales data in different year by different product category and age group.
+
+## Dashboard
+
+Dashboard is created by creating slicers to the pivot table for better comparison and visualisation as chart presentation changes with the slicer filter. We can join multiple slicers to multiple charts with the help of `Report Connections` to see the effect of filter on different charts.  
