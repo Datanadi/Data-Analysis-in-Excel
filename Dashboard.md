@@ -16,3 +16,8 @@ Now we can easily compare sales data in different year by different product cate
 ## Dashboard
 
 Dashboard is created by creating slicers to the pivot table for better comparison and visualisation as chart presentation changes with the slicer filter. We can join multiple slicers to multiple charts with the help of `Report Connections` to see the effect of filter on different charts.  
+
+A simple dashboard for this assignment is shown below:
+
+![image](https://user-images.githubusercontent.com/18466387/48240531-1c8a7d00-e3f9-11e8-9e51-7eb109df6c09.png)
+
